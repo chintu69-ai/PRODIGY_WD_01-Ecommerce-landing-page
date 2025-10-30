@@ -32,7 +32,7 @@ Ecommerce-landing-page/
 
 1. **Download or Clone the Project**
    ```bash
-   git clone https://github.com/surajchaudhary026/Ecommerce-landing-page.git
+   git clone https://github.com/chintu69-ai/Ecommerce-landing-page.git
 Open responsive.html
 Open it in your browser or use VS Code with Live Server.
 
@@ -48,8 +48,8 @@ Login saves your name in storage and shows a greeting.
 Theme toggle switches between dark and light mode.
 
 👨‍💻 Developer
-Suraj Kumar Chaudhary
-GitHub Profile
+Chetan Panchal
+
 
 📌 To Do (Future Improvements)
 
